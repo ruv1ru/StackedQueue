@@ -1,0 +1,11 @@
+C:\Users\virut\documents\datastructdemo\bin\Debug\netcoreapp2.2\datastructdemo.deps.json
+C:\Users\virut\documents\datastructdemo\bin\Debug\netcoreapp2.2\datastructdemo.runtimeconfig.json
+C:\Users\virut\documents\datastructdemo\bin\Debug\netcoreapp2.2\datastructdemo.runtimeconfig.dev.json
+C:\Users\virut\documents\datastructdemo\bin\Debug\netcoreapp2.2\datastructdemo.dll
+C:\Users\virut\documents\datastructdemo\bin\Debug\netcoreapp2.2\datastructdemo.pdb
+C:\Users\virut\documents\datastructdemo\obj\Debug\netcoreapp2.2\datastructdemo.csprojAssemblyReference.cache
+C:\Users\virut\documents\datastructdemo\obj\Debug\netcoreapp2.2\datastructdemo.csproj.CoreCompileInputs.cache
+C:\Users\virut\documents\datastructdemo\obj\Debug\netcoreapp2.2\datastructdemo.AssemblyInfoInputs.cache
+C:\Users\virut\documents\datastructdemo\obj\Debug\netcoreapp2.2\datastructdemo.AssemblyInfo.cs
+C:\Users\virut\documents\datastructdemo\obj\Debug\netcoreapp2.2\datastructdemo.dll
+C:\Users\virut\documents\datastructdemo\obj\Debug\netcoreapp2.2\datastructdemo.pdb
